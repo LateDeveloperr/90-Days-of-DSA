@@ -1,0 +1,3 @@
+A:/90 Days DSA/Day 3/Recursion/Power of N number/cmake-build-debug/CMakeFiles/Power_of_N_number.dir
+A:/90 Days DSA/Day 3/Recursion/Power of N number/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/90 Days DSA/Day 3/Recursion/Power of N number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
